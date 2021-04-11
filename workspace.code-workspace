@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Angular\\conFusion"
+		},
+		{
+			"path": "..\\..\\Angular\\ConTest"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"cform",
+			"commment",
+			"contacttype",
+			"dishcopy",
+			"dishdetail",
+			"fform",
+			"firstname",
+			"lastname",
+			"maxlength",
+			"minlength",
+			"telnum"
+		]
+	}
+}
