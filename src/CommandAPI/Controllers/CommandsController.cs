@@ -12,6 +12,7 @@ namespace CommandAPI.Controllers
     [ApiController]
     public class CommandsController : ControllerBase
     {
+        //random change to test ci/di in azure
         private readonly ICommandAPIRepo _repository;
 
         private readonly IMapper _mapper;
